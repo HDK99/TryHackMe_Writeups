@@ -18,14 +18,13 @@ nmap 10.10.206.67 -p- -A
 We have ssh service on both port 22 and 2222, But we are intressted in the port 31337
 
 ## Check web server
-10.10.206.67:31337
-
+Type 10.10.206.67:31337 in your web browser, we land on a page that contains login credentials. 
 
 ![image](https://github.com/HDK99/TryHackMe_Writeups/assets/105449114/8900effb-b78d-4462-ade9-a4cc59af6c2b)
 
 ## SSH-Login
 ssh (found_user)@10.10.206.67
-enter the password, And we are in
+enter the password, and we are in
 
 
 ![image](https://github.com/HDK99/TryHackMe_Writeups/assets/105449114/4e2ebf89-8c5b-4452-8d0c-a2da27a56958)
