@@ -8,7 +8,7 @@ The only task is to capture the flag:
 
 ## Enumeration ports and services 
 nmap 10.10.206.67 -p- -A
--p-: To scan all ports
+-p-: To scan all ports<b>
 -A:  For aggressive scanning
 
 ![image](https://github.com/HDK99/TryHackMe_Writeups/assets/105449114/f978a6df-c012-4774-914c-4e1ab008e9d3)
