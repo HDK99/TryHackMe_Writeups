@@ -33,4 +33,4 @@ python3 -c "import pty; pty.spawn('/bin/bash')"
 ![image](Pic/Screenshot 2023-11-14 160745.png)
 ## Get the flag
 We have the permission to read the flag
-![image](Pic/Screenshot 2023-11-14 160937.png)
+![image](Pic/Screenshot%202023-11-14%20160937.png)
