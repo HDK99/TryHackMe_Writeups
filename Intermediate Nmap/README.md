@@ -25,6 +25,8 @@ ssh (found_user)@10.10.206.67
 enter the password, and we are in
 
 
+![Alt Text](Pic/Screenshot%202023-11-14%20160620.png)
+
 ![image](./Intermediate Nmap/Pic/Screenshot 2023-11-14 160620.png)
 
 to spawn a more interactive shell:
