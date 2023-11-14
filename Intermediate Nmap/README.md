@@ -7,7 +7,7 @@ You've learned some great nmap skills! Now can you combine that with other skill
 The only task is to capture the flag:
 
 ## Enumeration ports and services 
-nmap 10.10.206.67 -p- -A<br>
+nmap [ip_Addr] -p- -A<br>
 -p-: To scan all ports<br>
 -A:  For aggressive scanning
 
