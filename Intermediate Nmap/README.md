@@ -25,7 +25,7 @@ ssh (found_user)@10.10.206.67
 enter the password, and we are in
 
 
-![image](../Intermediate Nmap/Pic/Screenshot 2023-11-14 160620.png)
+![image](./Intermediate Nmap/Pic/Screenshot 2023-11-14 160620.png)
 
 to spawn a more interactive shell:
 python3 -c "import pty; pty.spawn('/bin/bash')"
