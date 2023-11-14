@@ -27,11 +27,10 @@ enter the password, and we are in
 
 ![Alt Text](Pic/Screenshot%202023-11-14%20160620.png)
 
-![image](./Intermediate Nmap/Pic/Screenshot 2023-11-14 160620.png)
-
 to spawn a more interactive shell:
 python3 -c "import pty; pty.spawn('/bin/bash')"
 
-![image](https://github.com/HDK99/TryHackMe_Writeups/assets/105449114/db20b410-1f6d-4c77-bda7-7555cf5962a0)
+![image](Pic/Screenshot 2023-11-14 160745.png)
 ## Get the flag
 We have the permission to read the flag
+![image](Pic/Screenshot 2023-11-14 160937.png)
