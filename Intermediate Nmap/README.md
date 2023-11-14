@@ -11,8 +11,7 @@ nmap [ip_Addr] -p- -A<br>
 -p-: To scan all ports<br>
 -A:  For aggressive scanning
 
-![image](https://github.com/HDK99/TryHackMe_Writeups/assets/105449114/f978a6df-c012-4774-914c-4e1ab008e9d3)
-
+![image](https://github.com/HDK99/TryHackMe_Writeups/blob/48163bde74e004faaac77f3162c0f21809448530/Intermediate%20Nmap/Pic/Screenshot%202023-11-14%20160457.png)
 
 We have ssh service on both port 22 and 2222, But we are intressted in the port 31337
 
@@ -26,7 +25,7 @@ ssh (found_user)@10.10.206.67
 enter the password, and we are in
 
 
-![image](https://github.com/HDK99/TryHackMe_Writeups/assets/105449114/4e2ebf89-8c5b-4452-8d0c-a2da27a56958)
+![image](Intermediate Nmap/Pic/Screenshot 2023-11-14 160620.png)
 
 to spawn a more interactive shell:
 python3 -c "import pty; pty.spawn('/bin/bash')"
